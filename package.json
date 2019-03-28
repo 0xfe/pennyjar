@@ -1,0 +1,20 @@
+{
+  "name": "pennyjar",
+  "version": "1.0.0",
+  "description": "PennyJar Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit Cheppudira",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "dependencies": {
+    "@google-cloud/datastore": "^3.1.2"
+  }
+}
